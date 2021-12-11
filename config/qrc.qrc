@@ -1,0 +1,41 @@
+<!-- Edited by :  Melwyn Francis Carlo (2021) -->
+
+
+<!DOCTYPE RCC>
+
+
+<RCC version="1.0">
+
+    <qresource prefix="/pics">
+
+        <file alias="vaxdot">../res/img/Vaxdot.png</file>
+        <file alias="energizer">../res/img/Energizer_Dot.png</file>
+        <file alias="barrier">../res/img/Brick_Wall.png</file>
+
+        <file alias="vaxmanUp">../res/img/Vaxman_Small_Up.png</file>
+        <file alias="vaxmanDown">../res/img/Vaxman_Small_Down.png</file>
+        <file alias="vaxmanLeft">../res/img/Vaxman_Small_Left.png</file>
+        <file alias="vaxmanRight">../res/img/Vaxman_Small_Right.png</file>
+
+        <file alias="inky">../res/img/Ghost_Inky.png</file>
+        <file alias="pinky">../res/img/Ghost_Pinky.png</file>
+        <file alias="clyde">../res/img/Ghost_Clyde.png</file>
+        <file alias="blinky">../res/img/Ghost_Blinky.png</file>
+
+        <file alias="appIcon">../res/img/Vaxman_Big.png</file>
+
+        <file alias="apple">../res/img/Bonus_Points_Apple.png</file>
+        <file alias="cherries">../res/img/Bonus_Points_Cherries.png</file>
+        <file alias="strawberry">../res/img/Bonus_Points_Strawberry.png</file>
+
+    </qresource>
+
+
+    <qresource prefix="/audio">
+
+        <file alias="themeSong">../res/audio/peritune-spook4.mp3</file>
+
+    </qresource>
+
+</RCC>
+

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Created by :  Melwyn Francis Carlo (2021)
+
+cd build
+clear && qmake -qt=5 -r ../../config
+clear && make -j4
+

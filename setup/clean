@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Created by :  Melwyn Francis Carlo (2021)
+
+if [[ -f "build/Makefile" ]]
+then
+
+    cd build
+    make clean
+    cd ..
+    rm -rf bin/*
+    rm -rf build/*
+
+fi
+
